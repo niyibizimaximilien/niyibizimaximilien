@@ -117,7 +117,7 @@
 ## Contact
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-1a202c?style=flat&logo=twitter&logoColor=1da1f2)](https://x.com/wamukapo)
+[![Twitter](https://img.shields.io/badge/x-1a202c?style=flat&logo=twitter&logoColor=1da1f2)](https://x.com/wamukapo)
 [![Email](https://img.shields.io/badge/Email-1a202c?style=flat&logo=gmail&logoColor=ea4335)](mailto:niyibizimaximilien)
 [![Discord](https://img.shields.io/badge/Discord-1a202c?style=flat&logo=discord&logoColor=5865f2)](https://discord.gg/maximmilien_69102)
 
