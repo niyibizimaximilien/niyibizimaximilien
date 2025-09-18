@@ -9,8 +9,8 @@
 
 ## Current Project
 
-### 🏘️ Cadastre Land Management System
-**Comprehensive land management system for cadastral mapping, property registration, and digital land records management**
+### (https://frexi.rw/)
+**a tourism based website where peaple come and see places where they can visit**
 
 **Technologies:** NestJS, Vue.js, TypeScript, PostgreSQL
 
