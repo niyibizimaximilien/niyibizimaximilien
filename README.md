@@ -1,5 +1,3 @@
-
-```markdown
 # 👋 NIYIBIZI Maximilien  
 
 💻 **Software Engineer | Industrial Designer | ML Enthusiast**  
