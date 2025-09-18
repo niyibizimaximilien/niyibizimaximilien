@@ -1,12 +1,4 @@
 
-
-
-
-
-
-
-
-
 This will display the **raw HTML code** (not styled). Good for showing off code structure.
 
 ---
