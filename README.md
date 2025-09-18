@@ -1,11 +1,4 @@
 
-This will display the **raw HTML code** (not styled). Good for showing off code structure.
-
----
-
-### ✅ Option 2: Convert to GitHub-friendly README layout  
-Here’s your portfolio **rewritten in Markdown style** (so it looks dope directly on your profile):  
-
 ```markdown
 # 👋 NIYIBIZI Maximilien  
 
