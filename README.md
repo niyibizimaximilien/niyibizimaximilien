@@ -1,6 +1,6 @@
 # NIYIBIZI Maximilien
 
-**Software Programmer | industrial designer | Machine Learning Enthusiast | Backend Developer | DevOps Engineer**
+**One of good upcoming webdevelopers and to look after one, he has done more projects which are solving real problems in the Rwandan society.**
 
 
 
