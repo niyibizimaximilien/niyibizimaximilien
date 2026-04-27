@@ -1,3 +1,6 @@
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/820b3d4e-7ea5-4bc8-8cec-9e6eddc45994" />
+
+
 # NIYIBIZI Maximilien
 
 **One of good upcoming webdevelopers and to look after one, he has done more projects which are solving real problems in the Rwandan society.**
